@@ -3,6 +3,8 @@ This roadmap describes each module in this organization, their responsibility, i
 methods and some references.
 
 ## Web Client
+[Github repository](https://github.com/jsse-2017-ph23/web-frontend)
+
 Hosted on [Firebase Hosting]. Built with [React].
 
 Connect to [Firebase realtime database] and [Firebase storage]
