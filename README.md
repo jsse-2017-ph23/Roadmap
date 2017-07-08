@@ -38,6 +38,8 @@ Python in docker
 [upload]: https://cloud.google.com/storage/docs/object-basics#storage-upload-object-python
 
 ## Firebase functions
+[Github repository](https://github.com/jsse-2017-ph23/firebase-functions)
+
 [Cloud functions docs]
 
 Create status log from status change
