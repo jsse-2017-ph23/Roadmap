@@ -41,16 +41,11 @@ Python in docker
 [Github repository](https://github.com/jsse-2017-ph23/firebase-functions)
 
 [Cloud functions docs]
-
-Create status log from status change
-
-[Cloud messaging] when status change
-
-Remove old images [periodically]
-
-Clean up logs periodically
-
-Sync Firebase Storage photo url to realtime database
+ - [x] Create status log from status change
+ - [x] [Cloud messaging] when status change 
+ - [ ] Remove old images [periodically]
+ - [ ] Clean up logs periodically
+ - [x] Sync Firebase Storage photo url to realtime database
 
 [Cloud functions docs]: https://firebase.google.com/docs/functions/
 [Cloud messaging]: https://firebase.google.com/docs/cloud-messaging/admin/send-messages
