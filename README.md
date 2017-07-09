@@ -46,7 +46,17 @@ Create status log from status change
 
 [Cloud messaging] when status change
 
-Remove old images
+Remove old images [periodically]
 
 [Cloud functions docs]: https://firebase.google.com/docs/functions/
 [Cloud messaging]: https://firebase.google.com/docs/cloud-messaging/admin/send-messages
+[periodically]: https://firebase.googleblog.com/2017/03/how-to-schedule-cron-jobs-with-cloud.html
+
+## App engine
+[Github repository](https://github.com/jsse-2017-ph23/app-engine)
+
+App engine is needed to trigger cron job in firebase functions
+
+Code deployed to app engine are copied directly from [functions-cron].
+
+[functions-cron]: https://github.com/firebase/functions-cron
