@@ -43,8 +43,8 @@ Python in docker
 [Cloud functions docs]
  - [x] Create status log from status change
  - [x] [Cloud messaging] when status change 
- - [ ] Remove old images [periodically]
- - [ ] Clean up logs periodically
+ - [x] Remove old images [periodically]
+ - [x] Clean up logs periodically
  - [x] Sync Firebase Storage photo url to realtime database
 
 [Cloud functions docs]: https://firebase.google.com/docs/functions/
