@@ -61,3 +61,8 @@ App engine is needed to trigger cron job in firebase functions
 Code deployed to app engine are copied directly from [functions-cron].
 
 [functions-cron]: https://github.com/firebase/functions-cron
+
+## Settings
+[Github repository](https://github.com/jsse-2017-ph23/settings)
+
+Settings for Google cloud and Firebase
