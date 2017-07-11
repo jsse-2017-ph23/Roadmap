@@ -9,15 +9,13 @@ Hosted on [Firebase Hosting]. Built with [React].
 
 Connect to [Firebase realtime database] and [Firebase storage]
 
-Currently missing in UI: Show previous images from Cloud Storage
-
 [Firebase Hosting]: https://firebase.google.com/docs/hosting/
 [React]: https://facebook.github.io/react/
 [Firebase realtime database]: https://firebase.google.com/docs/database/
 [Firebase storage]: https://firebase.google.com/docs/storage/web/download-files
 
 ## Rpi button module
-Node JS in docker
+Node JS
 
 Connect to Firebase realtime database using [Admin SDK]. Also include [offline detection]
 
@@ -32,7 +30,7 @@ Remember to set client ID to `worker-rpi`
 ## Rpi streaming module
 [Github repository](https://github.com/jsse-2017-ph23/rpi-streaming)
 
-Python in docker
+Python
 
 [Take photo] -> [upload] to GCloud cloud storage
 
