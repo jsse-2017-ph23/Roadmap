@@ -3,7 +3,7 @@ This roadmap describes each module in this organization, their responsibility, i
 methods and some references.
 
 ## Web Client
-[Github repository](https://github.com/jsse-2017-ph23/web-frontend)
+[Github repository](https://github.com/jsse-2017-ph23/web-frontend) [![Travis](https://img.shields.io/travis/jsse-2017-ph23/web-frontend.svg?style=flat-square)](https://travis-ci.org/jsse-2017-ph23/web-frontend)
 
 Hosted on [Firebase Hosting]. Built with [React].
 
@@ -15,6 +15,8 @@ Connect to [Firebase realtime database] and [Firebase storage]
 [Firebase storage]: https://firebase.google.com/docs/storage/web/download-files
 
 ## Rpi button module
+[Github repository](https://github.com/jsse-2017-ph23/rpi-button) [![Travis](https://img.shields.io/travis/jsse-2017-ph23/rpi-button.svg?style=flat-square)](https://travis-ci.org/jsse-2017-ph23/rpi-button)
+
 Node JS
 
 Connect to Firebase realtime database using [Admin SDK]. Also include [offline detection]
@@ -38,7 +40,7 @@ Python
 [upload]: https://cloud.google.com/storage/docs/object-basics#storage-upload-object-python
 
 ## Firebase functions
-[Github repository](https://github.com/jsse-2017-ph23/firebase-functions)
+[Github repository](https://github.com/jsse-2017-ph23/firebase-functions) [![Travis](https://img.shields.io/travis/jsse-2017-ph23/firebase-functions.svg?style=flat-square)](https://travis-ci.org/jsse-2017-ph23/firebase-functions)
 
 [Cloud functions docs]
  - [x] Create status log from status change
