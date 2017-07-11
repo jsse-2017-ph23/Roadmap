@@ -30,6 +30,8 @@ Remember to set client ID to `worker-rpi`
 [GPIO library for Node JS]: https://github.com/fivdi/onoff
 
 ## Rpi streaming module
+[Github repository](https://github.com/jsse-2017-ph23/rpi-streaming)
+
 Python in docker
 
 [Take photo] -> [upload] to GCloud cloud storage
