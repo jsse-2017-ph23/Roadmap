@@ -15,19 +15,25 @@ Connect to [Firebase realtime database] and [Firebase storage]
 [Firebase storage]: https://firebase.google.com/docs/storage/web/download-files
 
 ## Rpi button module
-[Github repository](https://github.com/jsse-2017-ph23/rpi-button) [![Travis](https://img.shields.io/travis/jsse-2017-ph23/rpi-button.svg?style=flat-square)](https://travis-ci.org/jsse-2017-ph23/rpi-button)
+[Github repository](https://github.com/jsse-2017-ph23/rpi-button)
 
-Node JS
+Python
 
-Connect to Firebase realtime database using [Admin SDK]. Also include [offline detection]
+Connect to Firebase realtime database using [Admin SDK].
 
 Remember to set client ID to `worker-rpi`
 
-[GPIO library for Node JS]
-
 [Admin SDK]: https://firebase.google.com/docs/database/admin/start
-[offline detection]: https://firebase.google.com/docs/database/web/offline-capabilities
 [GPIO library for Node JS]: https://github.com/fivdi/onoff
+
+## Rpi online detection module
+[Github repoistory](https://github.com/jsse-2017-ph23/rpi-online) [![Travis](https://img.shields.io/travis/jsse-2017-ph23/rpi-online.svg?style=flat-square)](https://travis-ci.org/jsse-2017-ph23/rpi-online)
+
+Using firebase [offline capabilities], set status on when online status changed.
+
+Written in Node.JS (Because this functionality is missing in python)
+
+[offline capabilities]: https://firebase.google.com/docs/database/web/offline-capabilities
 
 ## Rpi streaming module
 [Github repository](https://github.com/jsse-2017-ph23/rpi-streaming)
