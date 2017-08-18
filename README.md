@@ -15,7 +15,7 @@ Connect to [Firebase realtime database] and [Firebase storage]
 [Firebase storage]: https://firebase.google.com/docs/storage/web/download-files
 
 ## Rpi button module
-[Github repository](https://github.com/jsse-2017-ph23/rpi-button)
+[Github repository](https://github.com/jsse-2017-ph23/rpi-button) [![Travis](https://img.shields.io/travis/jsse-2017-ph23/rpi-button.svg?style=flat-square)](https://travis-ci.org/jsse-2017-ph23/rpi-button)
 
 Python
 
@@ -36,7 +36,7 @@ Written in Node.JS (Because this functionality is missing in python)
 [offline capabilities]: https://firebase.google.com/docs/database/web/offline-capabilities
 
 ## Rpi streaming module
-[Github repository](https://github.com/jsse-2017-ph23/rpi-streaming)
+[Github repository](https://github.com/jsse-2017-ph23/rpi-streaming) [![Travis](https://img.shields.io/travis/jsse-2017-ph23/rpi-streaming.svg?style=flat-square)](https://travis-ci.org/jsse-2017-ph23/rpi-streaming)
 
 Python
 
